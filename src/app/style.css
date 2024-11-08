@@ -384,7 +384,8 @@ input{
     height: 2.5rem;
 }
 
-input:focus{
+input:focus,
+textarea:focus{
     background-color: rgb(233, 228, 228);
 }
 
