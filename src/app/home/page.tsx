@@ -7,7 +7,7 @@ export default function HomeSection() {
           I am <span>UMM-E-HANI</span>
         </h1>
         <p>
-          I' am on a journey to bring creativity and technology together to create
+          I am on a journey to bring creativity and technology together to create
           engaging <br /> web experiences. As I explore the world of web
           development AI and the Metaverse <br /> I am constantly learning
           building and evolving. Here you can check out my <br />
