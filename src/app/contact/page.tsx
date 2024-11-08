@@ -12,7 +12,7 @@ export default function Contact() {
                 </p>
                 <p>
                     <img src="pngs/location.png" alt="location" id="location" />
-                Karachi, Pakistan
+                Karachi Pakistan
                 </p>
                 <p>
                     <img src="pngs/linkedin.png" alt="linkedin" id="linkedin" />
