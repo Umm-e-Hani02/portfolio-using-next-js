@@ -55,28 +55,6 @@ export default function Projects(){
                     <div id="project">
                         <img src="images/project5.jpeg" alt="project5" />
                         <div id="layer">
-                            <h3>Dynamic Resume</h3>
-                            <p>A resume with dynamic fields powered by TypeScript, allowing information updates without changing the code structure.</p>
-                            <button>
-                                <a href="https://hackathon-milestones3-journey.vercel.app/" target="_blank">View Project</a>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div id="project">
-                        <img src="images/project6.jpeg" alt="project6" />
-                        <div id="layer">
-                            <h3>Editable Resume</h3>
-                            <p>An interactive resume that allows users to edit sections directly, utilizing TypeScript for easy customization.</p>
-                            <button>
-                                <a href="https://hackathon-milestones4-journey.vercel.app/" target="_blank">View Project</a>
-                            </button>
-                        </div> 
-                    </div>
-
-                    <div id="project">
-                        <img src="images/project7.jpeg" alt="project7" />
-                        <div id="layer">
                             <h3>Editable and Shareable Resume</h3>
                             <p>A customizable resume that users can edit and share via a link, combining TypeScript for data management and HTML/CSS for layout.</p>
                             <button>
@@ -86,18 +64,7 @@ export default function Projects(){
                     </div>
 
                     <div id="project">
-                        <img src="images/project8.jpeg" alt="project8" />
-                        <div id="layer">
-                            <h3>Dynamic Routing</h3>
-                            <p>A Next.js project demonstrating dynamic routing capabilities, enabling seamless navigation between pages based on user inputs.</p>
-                            <button>
-                                <a href="https://country-listing-teal.vercel.app/" target="_blank">View Project</a>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div id="project">
-                        <img src="images/project9.jpeg" alt="project9" />
+                        <img src="images/project6.jpeg" alt="project6" />
                         <div id="layer">
                             <h3>Figma to HTML</h3>
                             <p>A pixel-perfect web page replicated from a Figma design using Next.js, translating design specifications into a fully responsive HTML structure.</p>
