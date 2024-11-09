@@ -16,7 +16,7 @@ export default function Contact() {
                 </p>
                 <p>
                     <img src="pngs/linkedin.png" alt="linkedin" id="linkedin" />
-                    <a href="https://www.linkedin.com/in/umm-e-hani-400b812b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">UMM-E-HANI</a>
+                    <a href="https://www.linkedin.com/in/umm-e-hani-400b812b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">UMM-E-HANI .</a>
                 </p>
                 <p>
                     <img src="pngs/github.png" alt="github" id="github" />
